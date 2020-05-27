@@ -4,3 +4,4 @@ nbinteract
 textblob
 matplotlib
 wordcloud
+nltk
